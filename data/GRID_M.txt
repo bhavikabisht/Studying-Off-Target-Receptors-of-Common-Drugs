@@ -1,0 +1,11 @@
+receptor = AF-P20309-F1-model_v6.pdbqt
+ligand = diphenhydramine.pdbqt
+out = AF-P20309-F1-model_v6_OUT.pdbqt
+center_x = 10
+center_y = -2
+center_z = -15
+size_x = 32
+size_y = 20
+size_z = 20
+num_modes = 10
+energy_range = 3

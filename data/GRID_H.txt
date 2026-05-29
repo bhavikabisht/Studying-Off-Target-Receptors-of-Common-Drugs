@@ -1,0 +1,11 @@
+receptor = 3RZE.pdbqt
+ligand = diphenhydramine.pdbqt
+out = 3RZE_OUT.pdbqt
+center_x = 16
+center_y = 49
+center_z = 12
+size_x = 20
+size_y = 20
+size_z = 20
+num_modes = 10
+energy_range = 3

@@ -1,0 +1,11 @@
+receptor = 7X5V.pdbqt
+ligand = diphenhydramine.pdbqt
+out = 7X5V_OUT.pdbqt
+center_x = 115
+center_y = 134
+center_z = 143
+size_x = 20
+size_y = 29
+size_z = 35
+num_modes = 10
+energy_range = 3

@@ -1,0 +1,924 @@
+3100_01
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   22.4033   23.4223   53.6346 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2285   22.9324   52.5863 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4351   24.0083   51.5404 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6373   24.0698   50.8435 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8234   25.0600   49.8843 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8108   25.9783   49.6272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6139   25.9069   50.3292 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4159   24.9219   51.2913 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5317   22.3649   53.1146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9195   21.0786   52.7541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1153   20.5615   53.2416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9141   21.3300   54.0820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5169   22.6138   54.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3230   23.1420   53.9546 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2675   22.5916   53.8358 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0137   23.4454   53.7345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8671   24.2903   54.9193 N   0  3  0  0  0  0  0  0  0  0  0  0
+   18.4527   24.5305   55.2039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5736   25.5572   54.7342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7005   22.1296   52.1157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4132   23.3607   51.0436 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7454   25.1152   49.3443 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9535   26.7396   48.8891 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8379   26.6155   50.1281 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4938   24.8677   51.8314 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3025   20.4912   52.1067 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4207   19.5726   52.9701 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8343   20.9325   54.4565 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1346   23.2011   55.0818 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0180   24.1307   54.2270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3185   22.1409   54.8049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2437   21.8271   53.0876 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1594   22.8065   53.6506 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0809   24.0668   52.8661 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2708   23.8136   55.7002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3637   25.1492   56.0723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9991   25.0213   54.3683 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9606   23.5967   55.3793 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4562   26.1622   55.6089 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6134   25.3652   54.5703 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1682   26.0714   53.8879 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+146782.267069
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+14583686.078726
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVdLbmQ3DNz7FDqBwL9EzHImyGwy2WXr+98i1KM8cVpamI0GLBTUBVbxJzMCvAO+td8f/tEw/mCH9Xkg+Hz+dLW1tybYhAL+9P3v4+7tH4qfrh8RdRGZ68QdXTxOyn1wYH+3/1Pcvw8LdBq4IiTpOuc6qXRHtfYrWfgLLBEBDcmoBtBYLBR8bu3712PhTk6apwljaVPsagMrLBK+AGUswK4Zi6tDhQXD00dHsKgYp7uOohWWSPV0TkURwEyWaShFRZN3ph0fnxX61FFkmfxUXUQ1B3P6wjBLOaJOYpZ85m6ZI1b0Cot24qfWgs/AZbsrVskRzu5jUvIhZdVpZ8FZzLTwZjEblB0gykV3jXHkyVmWu+KRLS/FYlGxYrsvbew+MsVS7cZkANNUFM09sl4EsdRHtvpopEPuT1ThC41ZyvSqe9ruTkZKX8xt1GKZ8rt2Y0hkvRhHX5Z8UdC5FSlBuosyof0s1ctQ3/NFeU/Maew1FhCFPE0akIpwKSqwQEckzqqLgbkVOTgWWNDDA/I9x+HDXXcqKYqenmB7jpOMnAzAMesKLFFhMDy1STTh3gGRuJq7zLy3msHcLA5otVicce8jBfM9GaSkKKYUm+8cMSXL6kuruLtyRM+cXH0k/mwSW9kvZXp2CROSRWdOzNj7UOsAiB0vkn2JnDtg9bkXc0Smm4Xnhy/EOios0YM+tyIy2Ypw2qzVropuFqBnv8WU4gEVd5cOQctsRc59zxe1oi+xEceewCCY05vYqMIyOhjr3gZEM92F4nyJ9ySoZSyGDMuXtXW1VC+jD7Pd0xHAxyvIvTjrouo0+wjlqb/VR+sl/WUWfJ6zeKJ2ojEGxw1dO+yCXngDkiuqN3Tto1c0fj6fSF5QvNwNUj/valuv+9e7dtVmUXxX9KJ4NLooDvSieDa8onTxwRteUTozFCasbqMDpVNbmLDeQa93sa3OeL1LbW3DE+XT9YWenkUx8OnZQk/PFnq6E4bhmflA+XQnDMMz84HyxTN7eE+UL56Nh/dE+cIwG1/uepNLpdL6N/cF/au17z//fNClpOFC/vj14+3927f3GGEdnwPGI0d5HePRzkyM/wJoSmwg
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.2089
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+0.8976
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTE2LjE4MDc7MC4yMDg4NzU=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+2
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+1
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+1
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$
+3100_04
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   22.4035   23.4229   53.6341 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2286   22.9327   52.5860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4355   24.0084   51.5400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6376   24.0696   50.8429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8239   25.0596   49.8837 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8115   25.9782   49.6267 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6146   25.9073   50.3288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4165   24.9223   51.2909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5318   22.3651   53.1145 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9194   21.0787   52.7541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1151   20.5616   53.2417 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9140   21.3300   54.0821 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5169   22.6139   54.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3231   23.1421   53.9545 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2677   22.5920   53.8358 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0138   23.4456   53.7345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8671   24.2903   54.9193 N   0  3  0  0  0  0  0  0  0  0  0  0
+   18.4526   24.5303   55.2039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5734   25.5575   54.7343 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7004   22.1299   52.1154 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4134   23.3602   51.0429 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7459   25.1146   49.3435 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9544   26.7394   48.8885 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8388   26.6162   50.1278 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4944   24.8683   51.8312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3025   20.4914   52.1066 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4204   19.5726   52.9704 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8341   20.9325   54.4566 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1346   23.2013   55.0819 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0181   24.1309   54.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3190   22.1415   54.8050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2440   21.8273   53.0878 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1596   22.8065   53.6506 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0809   24.0670   52.8660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2709   23.8136   55.7002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3636   25.1490   56.0723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9989   25.0211   54.3683 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9606   23.5964   55.3793 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4559   26.1624   55.6090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6132   25.3656   54.5704 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1679   26.0717   53.8880 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+146036.016473
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+14509541.66984
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVdNbl43DNz7FDqBwH+JyDIpmk3TXbe+/y1KiXLqfk8L8+EDLAykATlDkTIjwDvIW/v98Y+G8Qc7rG9D8Hn9aWtrb02wCQX86fff5+7tH4qj6xBRF1JZK+4IOGOl3Ieitb/b/ynuv80CndRXhCRdGXyxSHcga7+Shb/Awh18joxKBy4+pW44qX3/eiwcsaDnyth3LNhVDSos0gVN1wq7k5xY3KdVWLDjSJbQWQelum6qFZawegBmRuJ2PJpTZy0jsqnHoxnObF3MahlJn8CUUQ02S1141tSNEwPG8chorRS6DC/Fop0onaZVdXDU1VFhwRl+zJl8MMZSSLUzYdVpEkkWdYW8AexS9EhA8bAYQ+pijlxhsQ5InB6hGKRHg6fUPFKc506bjOWReFeYpdq16C8OH/fIT2cIs7x2p5XcPtSVmbEY1lisT9KjyxDWrBdzLbHETR56MpogR12CyPJnqV4sMwpdfNjpmIyjxgLEh2UgWGZEGJVYYIn+MplT5yhdOb0Oo9N8nQU9boDR6eNZOZERCFVYotZcdgSrSynPjEUBiiw4PpymCfP0OnGqqRtD7XRvZz5ditcArWWE29/VvSVZ4p4TV1iiS7FlRtHHPatO405Dpeq2R0p5jybv3DS6hYnWYpFBH10Kch5FRsNKtRt9bez5sfoV25mNSrOkLq5pP5OFhY4uqFBymlbnPzMA534PRUbIXKq6dXb7G7GQf0y1MeJeFlgiDxyQbhFnRtFfwuqaLlM2y+rew1blyIyVljwaHTRrd814HakuxPCusKx3WE615dF+g0Qs8XwpqTviVboj2HfaT69zs5K64QfkyyP8RcPMyDz61ZdZcD9n8YnaE42yHjcU6YpeeAOSK6o3dNXLKxrH547kBcXL3iD1515t6zX+uteuuVmj6166ZDwaXTIO9JLxbHhF6aKDN7yi9HQoRIiX3mvGgdIztxAh5vNjL7aYcY+91MhvKD9VX+hTsygGfmq20KdmC32qE4Lh0/lA+alOCIZP5wPli2a2eZ8oXzQbm/eJ8oVhNr7s9SaXSqX1b+4L+ldr33/+udGVScOF/PHrx9v7t2/v8XDruBc44uFma4nCzMT4L30KbFE=
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.209
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+0.8998
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTE2LjE5MzM7MC4yMDkwMzg=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+2
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+1
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+1
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$
+3100_05
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   22.8895   21.9282   53.6391 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8267   22.0377   52.5764 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2289   22.1779   53.1316 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2971   21.5903   52.4617 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5833   21.7209   52.9755 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7940   22.4359   54.1498 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7194   23.0190   54.8101 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4285   22.8951   54.3069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6945   20.8939   51.5895 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6531   21.1624   50.2252 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5309   20.1104   49.3233 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4524   18.8017   49.7878 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4952   18.5453   51.1527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6166   19.5887   52.0647 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5552   22.0936   53.1768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2729   23.5793   53.0211 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5078   24.2844   54.2807 N   0  3  0  0  0  0  0  0  0  0  0  0
+   20.2980   24.9874   54.7061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6216   25.2219   54.1416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6029   22.9406   52.0477 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1307   21.0420   51.5580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4106   21.2713   52.4672 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7833   22.5369   54.5447 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8863   23.5679   55.7132 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6016   23.3445   54.8161 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7148   22.1707   49.8722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4973   20.3080   48.2722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3590   17.9924   49.0940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4343   17.5370   51.5052 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6495   19.3905   53.1157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8739   21.6702   53.8849 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4382   21.6041   52.2326 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2526   23.7143   52.7279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9167   23.9823   52.2675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7459   23.6113   54.9809 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4871   25.4971   55.6277 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0160   25.6976   53.9571 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5056   24.2818   54.8448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7797   25.7284   55.0708 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5077   24.6858   53.8725 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3925   25.9375   53.3798 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+3315912.355081
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+329455497.7027
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVc7rhw5DMzfKXQCQfyLcGgv1sl6M6fv/rcwJcr287QCszHACAV1gSySJTXBGO9D3tqvh740iD/oYz0bGh/XH7a29tYYGmPAH36/H3dv3zFeXS8h9sHAueIJHivhWE1r/7c/Ke6/zTI661gRIncBpGSxqd6+JQv9BQv2KUNyJY4rKqFOKNo+/30s3AkUDgsDJosNpgpLqGGyWaCLJgt2NB8VltHV54kFBEfqAjqwwALeHXguFupMPjIjF5VKLNJxwji5YaqLoYtzhQU6GR1dbMKuNHQWh1qN1NQyFgXeLBKdqCV1qSMDnP4bqpkRCM2auvEupEIsbBlL1Mhrugj5YcHBZ47GpJK62hX11IgsWahHeKUJCJsgsNRlUlZ6dBm1jLQP3BGsOVLl1IWmVHp3zfT0eXRW0ewXiIauxeJuxxmYjY9LjVHquuhYH56xqLGmLqRWzEhVPPtPxCC7zkd4xNeKM2C6yuqcaSMzipn2Gouay2ExOl4XLcQFluUvZ6bDJ3HP5coITSsss0+HowsaaWaESFTJKDTwny5FOkf2SyyKupjj6Rc1mskiypWMIg/HeVhs7LmMCZhDKuricoHs3ag5bx9fvjsjt5K6EbwdhXhgxmIAs1bpiekM2pHw+K6tCSjF4jY9vW7O7cCr0mYlXWB5LCeLolj2LlhNXYgapWNK9ynz3DwGl6Yxeg23pvv+sm9VEcsUKXWdLc8+pxpOPOcRDSz2LsQ1KFfuey456qZR/QKLxi1Ifk4Awo5FOwNJbQLYhmXNw18452hMLmU04zzad5/l3gCSNVKDygQsh8N5YnHeCoUuil7SZZ2IzFlpGPtuJqv/oKAL7OssPFF9otFUdkOX91/QC29AfEXlhi6dX9F4fe5IXlC47A1Sf+6Vtqb8da9ec9Mo1RW9ZGwNLxkHesl4NriieNHBG1xRfFYoRFjTgQ8Un7mFCMs9X/dCtPhzL7aY+wtKT9UX+tQsmoGemi30qdlCn+qEYPCsfKD0VCcEg2flA6WLZrp5nyhdNLPN+0TpwjAbXfZ640un4vrMfUH/a+3z1383ujJpsJB/vn15e//06T3Mp8NegHocpmsZ3x4U5yD8AJEnbB8=
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.1091
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+-0.4563
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTguNDUyNDI7MC4xMDkxMTI=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+1
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+0
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$
+3100_07
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   22.9178   21.9190   53.6404 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8536   22.0288   52.5766 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2565   22.1692   53.1298 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4669   22.8915   54.2997 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7572   23.0186   54.8038 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8252   22.4247   54.1396 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6031   21.7051   52.9719 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3177   21.5712   52.4573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7202   20.8852   51.5897 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6802   21.1536   50.2253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5568   20.1018   49.3234 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4757   18.7932   49.7879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5172   18.5369   51.1529 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6397   19.5800   52.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5829   22.0822   53.1797 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2998   23.5672   53.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5329   24.2768   54.2759 N   0  3  0  0  0  0  0  0  0  0  0  0
+   20.3250   24.9879   54.6931 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6522   25.2080   54.1375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6289   22.9317   52.0484 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6424   23.3460   54.8082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9281   23.5734   55.7027 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8176   22.5221   54.5276 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4277   21.2500   52.4643 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1476   21.0169   51.5580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7439   22.1617   49.8723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5242   20.2994   48.2723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3815   17.9840   49.0941 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4544   17.5286   51.5055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6716   19.3817   53.1159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9029   21.6613   53.8906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4645   21.5889   52.2376 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2799   23.7005   52.7238 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9444   23.9679   52.2643 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7645   23.6057   54.9801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5128   25.5009   55.6131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0499   25.6962   53.9396 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5284   24.2871   54.8316 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8087   25.7179   55.0651 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5365   24.6662   53.8746 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4300   25.9213   53.3715 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+3555515.200947
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+353261457.083676
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVdNbl43DNz7FDqBwD9RJLJMimbTdNet73+LUo/6UtfSwnz4AAsDaUAOh5TMCPAO8639/vhHw/iDHdb3QPBx/WFra29NsAkF/OH33+fu7R+Ko+sQUUcEz5WSrJ1D+jAd7e/2f4r772GBzuzrLEkXt81iTNR+JQt/gYW6q2CujJwWC3dRs/b967FEBDBl8wGNZHEirLBQn6yPLtin2VoN6mxeYoHIA3csaEipC1ro/HUW9O48bLFwZ1feGQ2vsIQuU31XmmfqMjoOLbFgVyXKlZM8umAfqFJhGZ3HE0FkNABmZgQuWmHhruCWOk8EzhqR6aypi8vtGRVHBKmLRm4lXdjEkoXcXpWOIlVYNDTIWKiL0MxYRrEDsEscSV1c51Mj6IOsVGntOofvGmVfRo0G2qjViP05GzpPBUm/kHOlRjQ7iEvyQQid6k5xrvU0E2vGYjZm6iKoJXVjMqDsWKbhni8R32g/SxPT554voS5kRi6mNRYHGLsvCTRjoalYYwF8qTth7lnnHK77Ogtad/TtF9x9FB2wZk4hFon68tbFMV03QmcqsYQubnvuhom368J+lYyik0Ffc9fhWYUuKFqqUdxHnH6Brsiw1VWs+CXUlQG453gQpi6qVql0+D5uZ8vujhrtO8BC8losU/OGjcpw+kU6RTAVXeIxE5fPZgGwl3dHkUV16mt22nadyaxkFC6JwUCprtorlvBQyXUadwBb8r2mlK67sehdZYKtkK53XJOYV4OpwjJjrpHsjiLUdF08X0pTKs6O5y5b3U2PQmt6g5TUtcjjNRnA0dJ1oFqKJTpPdd8kKA9f6KLr/VJSd4JC5oa7G6OPphdY8HnO4onqiYZk84aut+AFvfAGJFd03NDlnM9oHLcnkk8oXvYGqZ97R0M89+o1Nw3jXtFLxjMscUUvGVvDK0oXHbzhFaWzQiHC6g46UDpzCxFwnnsxLH7upRZ31gXlU/WFnpqFGfjUbKGnZgs91QnB8Kx8oHyqE4LhWflA+aKZPrwnyhfN5sN7onxhsMaXvd7k4lRa/+Z+Qv9q7fvPPx+0PWNrIX/8+vH2/u3bezypOz6LmMhMspYozPEoxH8BYiRsxw==
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.1069
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+-0.4866
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTguMjc5NDc7MC4xMDY4Nzk=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+1
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+0
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$
+3100_08
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   23.3698   22.6443   53.6664 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2411   21.8341   52.8891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0063   22.0840   51.4139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1597   23.3673   50.8995 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9424   23.5926   49.5441 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5759   22.5386   48.7137 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4262   21.2608   49.2386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6400   21.0227   50.5923 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6907   22.0166   53.2953 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0065   22.8408   54.3706 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3376   23.0059   54.7393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3411   22.3486   54.0354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.0138   21.5275   52.9633 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6866   21.3545   52.5844 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0107   22.2662   53.4908 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1893   23.5135   53.2065 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2910   24.4624   54.3148 N   0  3  0  0  0  0  0  0  0  0  0  0
+   19.9605   24.8161   54.8083 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0165   25.6613   53.8964 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9831   20.8140   53.0831 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4427   24.1751   51.5416 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0571   24.5768   49.1402 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4094   22.7118   47.6711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1441   20.4531   48.5960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5245   20.0383   50.9955 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2314   23.3439   54.9100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5895   23.6387   55.5644 H   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3649   22.4753   54.3194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7893   21.0239   52.4247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4355   20.7220   51.7587 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6508   21.7933   54.3806 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9296   21.5868   52.6681 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1644   23.2367   53.0739 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5520   23.9769   52.3128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7994   24.0278   55.0581 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0531   25.5099   55.6176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3943   25.2634   54.0181 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4608   23.9339   55.1501 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0815   26.3437   54.7180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0017   25.3896   53.5796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4970   26.1278   53.0856 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+439595.07013
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+43676369.309209
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVdLjh03DNzPKXQCgV+RhJd2EG9s77Kd+98iVEvPmYy0MBsPeEJBXSCrSErNCPAO/tZ+P/ytYf5hh/k8EHxcf9ja2lsTbEIJf/j990RE+4fy1fkSUVch3itmzZVyDwNsv9r/Ke6/hwW6+pjvknRRkMki3dCj/Vws/Acs3FllzBV2YfMVixpC+/rnsVB3cFhROcHUTakzgFdYpDsKrlicyVYsMuMrsGBH17GiQmFcuiCbVVigU5BuhZi2R04UFZZUEtKPhy8GPxllfGAlXbQLhe16QdoZaVFd7AOCViyIqtsjGVSLRdF58WVutFgoQgosGJ3daPGRWqyMgqNUdZnRWPWSLCYvpy0VKnkEQNsjDp19JNFDmCsso9tw3b1gr6pjDy3W7uqAVEgVZdeLaUmX0bMBbPeRycsjgGIsDsorluHuWxezEot1cfRdu/qadVR0Ot/w4cujEeOlLge375WMgHjPOqcnI9WcETYqLNnJ6rJYmMfOSIxKsUDOtdXT3EeW3fLIESuxpDM0UslVxaK4TxLhqMSS5wfD755++jKrDjx1LrG42Z67pisWzQ4QLXpkY08pgNgZ0ciJWWDRDnPeL7d8xZLnW+T8K6jrfZDAym0ojJ2RRUWX2T0YY/UlGGxdNNRqLCDPGZ+5jenv0wEAXMloVuyIPTHHgFc3zjtDicXz5Z2RP6uMxbmky3MLWud0qmu+7y+gXsooT1hWWE4rYKwpBYSlWKyTLI/ytI/xmgyevVXqaQze0xvAdtWl+VKLRSD2fBm8qi59QyvOOsEhe0Yo4tbFseS052n/mt6+Y+GOysWJ6f6cq+l0XhPj1QFe6Gl8rrN4ouNEc3zYDUW6ohfehOSK6g0lONF83Z9IPqF42Zukce7VNl37vHdccxuNrnvpkrE1umSc6CVjb3hF6aJDNLyidDqUIuQ59znjROnMLUVAO/diFue5l9q8yZ0on6pP9NQsi4FPzSZ6ajbRU50UDE/nE+VTnRQMT+cT5Ytm4+E9Ub5oZg/vifKFwRtf9kaTS6XS/Mz9hP5o7ev3vx90ZtJwIn/9/Pb2/uXLO/W8kD+LnEaiNpf5UZZfVIz/ArbBbA8=
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.1738
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+0.4213
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTEzLjQ2MTU7MC4xNzM3NzM=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+1
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+1
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+1
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$
+3100_09
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   22.1968   21.9924   51.6304 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2102   22.9631   51.4061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2883   22.8440   52.4631 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9055   21.6168   52.6826 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8946   21.5116   53.6551 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2608   22.6287   54.3984 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6377   23.8495   54.1702 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6468   23.9675   53.2012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7576   22.8889   49.9938 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5609   21.7378   49.2381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0655   21.6737   47.9433 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7597   22.7559   47.4129 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9498   23.9009   48.1769 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4506   23.9772   49.4731 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6007   22.1472   52.9116 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0533   23.5607   53.0284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6703   23.8538   54.4091 N   0  3  0  0  0  0  0  0  0  0  0  0
+   19.3684   23.2617   54.7149 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6409   25.2982   54.6358 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7581   23.9261   51.5211 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6215   20.7602   52.1078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3738   20.5713   53.8312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0222   22.5480   55.1459 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9224   24.7060   54.7449 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1676   24.9082   53.0260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0253   20.9080   49.6496 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9197   20.7916   47.3554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1473   22.7068   46.4168 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4846   24.7310   47.7647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5975   24.8592   50.0607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3346   21.9815   53.6724 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8038   21.4422   53.0253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1947   23.6582   52.3974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8053   24.2555   52.7174 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3526   23.4512   55.0193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1039   23.4853   55.7273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6291   23.6658   54.0555 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4200   22.2007   54.5858 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3594   25.4945   55.6492 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6115   25.7083   54.4494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9303   25.7486   53.9746 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+138785.127466
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+13789122.976363
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVdLjlw3DNzPKXQCQfxJIry0g3hje5ft3P8WKYkaZ9JPC/OhgRYKetVksUiphVp7b/5Wfj/yrRC+qLb1bKh9Xn/aWspbUSrKgD99/nvcvfzDeHW9xFTHFI+VzTGxMq5zCJdf5f8U989maVWFea20yqT1e6Z1iGr5GSzyByz4XR4eKx4sEQs5cvn657FobWIjWLSNvlikNp8twyKVzI4unSOjVmdXy7AQdJl6MpLJoUubnsqoVQFNRMWGCHZGsyG+BItVmqOdjEYfp9IsPcOCeghTsAjPxadevXuKRaoP6yejrscv5DxzlVaI8BGLWdTIbEqChbxS6zP43IgiFh+SigURKGnorI1GsDBpSpde2WUE32wiUeluPRULfC9DwjmDffHprMMoowvygE8pagTrbu8Co1wfYQoMnh+x7O6GX0R6VhfV00dbjZgvJqkOELyxe3DPq8ahi4pRUt0R82V5t+1YqPq0Vr5nWFAYi9WQfiaDTsyrBAsOhGmnG426HF3cUixQw5pERp12X67J0FQSLOgjmd5PRpM9vOtkmonFKse0XbnxnjRL3QHnpHQhGnp06R/Tm6mnYsGpgYEfK8zJFuqKj1SlkVHnM6XMtouRERtlMiL4tEdGmCpNKLpRXDOxrFl3amQffQmWbrgwpGLpHucRcvM4j3Cq6Uyp21BV5xMLhAm/4NxPqUtLAzkzgsbpAG/GuW4U6nTOgIhqn9M5vwyoK8e7mFcUGalJsqc7jrBQyOKGhynVDNMi5bp2WNZ9aDsHlZ5dMj29KjPDdZgRvk9YTG+cC6kaDdy+IhZMBtPx27upjDBLfPseLkYL7lNtICrcWVOuw3Q8lW7aPzqgacIvtK+z9ET7E4WVxg0lvqIXXkB6Re2GonseKF6fO5IXlC57QerPvVbWveh1b7/m1gtf9/Il41H4kjHQS8az0BXliw5e6Irys0IQgfojY6D8zA0irJvd614qa5K+7uWyzsAnKk/VF/rUDGaQp2YLfWq20Kc6EIyelQcqT3UgGD0rD1QumvXN+0TlotnYvE9ULgyzyGWvF704ldff3Bf0Rylfv/+90ZVJoYX89fPb2/uXL++4uFXaC1I19bUkFREW+hcdp2xW
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.2107
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+0.922
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTE2LjMxOTU7MC4yMTA2Njg=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+1
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+1
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+1
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$
+3100_10
+ibHydescor03112612573D 1   1.00000     0.00000     0
+Hydescorer 2.4.1 ibab
+ 41 42  0  0  0  0            999 V2000
+   22.7663   22.5975   53.0375 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5792   21.4321   53.0609 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5443   20.7458   51.7112 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8194   21.4760   50.5595 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7854   20.8419   49.3219 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4793   19.4874   49.2424 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2066   18.7680   50.3994 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2368   19.3906   51.6431 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9881   21.7383   53.5309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2568   22.9496   54.1597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5508   23.2267   54.5886 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5642   22.2954   54.3887 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2841   21.0884   53.7599 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9944   20.7997   53.3259 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4783   22.3462   53.5841 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6610   23.6264   53.5178 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2157   24.6403   54.4139 N   0  3  0  0  0  0  0  0  0  0  0  0
+   20.1424   25.4134   55.0377 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1253   25.5239   53.6854 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1472   20.7582   53.7709 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0553   22.5175   50.6252 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9948   21.3962   48.4309 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4537   18.9995   48.2905 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9715   17.7263   50.3333 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0267   18.8359   52.5335 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4740   23.6630   54.3124 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7664   24.1565   55.0722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5594   22.5082   54.7192 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.0670   20.3750   53.6082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7796   19.8699   52.8418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5746   22.0331   54.6028 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9913   21.5787   53.0197 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6529   23.4151   53.8076 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6731   23.9993   52.5149 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7327   24.1777   55.1341 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5652   26.1495   55.6890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5647   25.8984   54.2788 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5121   24.7580   55.6015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5215   26.2585   54.3550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9273   24.9483   53.2725 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5927   26.0115   52.8957 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 19 40  1  0  0  0  0
+ 19 41  1  0  0  0  0
+M  CHG  1  17   1
+M  END
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_LOWER_BOUNDARY [nM]>
+77257.055964
+
+> <BIOSOLVEIT.HYDE_ESTIMATED_AFFINITY_UPPER_BOUNDARY [nM]>
+7675945.28993
+
+> <BIOSOLVEIT.HYDE_INPUT_DATA>
+AAAPc3iclVdLjh03DNzPKXQCgX+R8NIO4o3tXbZz/1uE+vRk8qTFqPGAJxTUBbJIltSMAO8Ib+Xj4R8F8w8r9GdA8Hn9aWspb0WwCCX86fffExHlH8pX+0tEVYVwrZg1V8o1GmD5U/5Pcf4NFqjqJn0lVRQGi9SGAeX3ZOEvsHBllcGCVbjFjEUbRPn+9VioOjSfUTkBdRaqDGA3LFIdOWYsztRmLKKiNyxY0VVmVChMUxfkdhULVAqSpdBHLE4Md7GEzkpjVW2jRqmze7th0SoUtvoFCWZGeqkuV2w4OjqqrhplfMZyF4uiw8oIfFWaIuiCJSNgbzT5SB1nRsFXLBmBmeBiafJUutEliyi2WfNwG7FAZWK+YbHazFfXeeNVI/a4YqGeUWdBz8oAz1haKN7F4mprpn3pkjUCuIol3wW3WS2b1ZJIl7Kr3m3Z7fj0rrLMOSJ2v+tdcrNZIwtblWYOLD9vMgIabttzIx9ep+kROZcXLNklOvo+WZjtcalGfMciGjpzM442a+SYnfh1lqwMmftkAVFeJ4mki17pYg7x1Mh8OkPL4+WGJd27DYdLlqYKU1327OcLlvRYBlwToI8uGjlRFyxagZs8M624fDfihiUjMBKYuVma3cqoxU2l+/TgyCPnEtr03XTRTO6OBQRk5pYWsRwzR/pK3exYi+WYZmBrGvFKlz49NnyyZ+QGMxbv7n3B0m9Bakvd5uv+An22ruaoxccJK+rTpSz4qndbJXmmkWM4TXcG96s5ojzBhi7Y0r1Rpnsr3U1AOibEysh41ijrlof3XY2EhvN3j5Bxr0tdwOGq0p6n/ePeOZfLvVHvui7vhOtGlvV1hGcC0rm+zILjOos7ajuaabcTinRED7wJyRHVE9pvZK9ovu4jkhcUD3uTNPa9Wvpt7XWvHXOzQse9dMi4ZZMf0UPGXvCI0kGHKHhEaa9QitC7ijaU9txShH47e92L2Zz7XioUJ5R31Tu6a5bNwLtmHd016+iuTgqGe+UT5V2dFAz3yifKB81s8O4oHzRrg3dH+cDghQ97o8ihU6l/5r6gv0r5/vPvgZZhOB356/ePt/dv396p5oV8LLBJM+rL/CjLLyrGfwHEh2xa
+
+> <BIOSOLVEIT.HYDE_LIGAND_EFFICIENCY>
+0.2294
+
+> <BIOSOLVEIT.HYDE_LIGAND_LIPOPHILIC_EFFICIENCY>
+1.1764
+
+> <BIOSOLVEIT.INTER_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.INTRA_CLASH range: 0=green, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.LOGP>
+1.9371
+
+> <BIOSOLVEIT.MOLECULAR_WEIGHT>
+256.3668
+
+> <BIOSOLVEIT.MOLECULE_CHECKSUM>
+LTE3Ljc3MTc7MC4yMjk0MTM=
+
+> <BIOSOLVEIT.NUMBER_OF_H_BONDS>
+1
+
+> <BIOSOLVEIT.NUMBER_OF_UNFAVORABLE_TORSIONS>
+0
+
+> <BIOSOLVEIT.TORSION_QUALITY range: 0=green/not rotatable, 1=yellow, 2=red>
+0
+
+> <BIOSOLVEIT.TPSA>
+13.67
+
+$$$$

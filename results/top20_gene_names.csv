@@ -1,0 +1,21 @@
+Protein_ID,Clean_ID,Gene_Name,Protein_Name,UniProt_ID
+clean_4MBS,4MBS,CCR5,Chimera protein of C-C chemokine receptor type 5 and Rubredoxin,
+clean_6WGT,6WGT,HTR2A,"5-hydroxytryptamine receptor 2A,Soluble cytochrome b562 fusion",
+clean_7W41,7W41,GRPR,"Gastrin-releasing peptide receptor,GlgA glycogen synthase",
+clean_6D26,6D26,PTGDR2,"Prostaglandin D2 receptor 2, Endolysin chimera",
+clean_3VW7,3VW7,3VW7,"Proteinase-activated receptor 1, Lysozyme",
+clean_6RZ4,6RZ4,CYSLTR1,"Cysteinyl leukotriene receptor 1,Soluble cytochrome b562,Cysteinyl leukotriene receptor 1",
+clean_8XQI,8XQI,cybC,"Soluble cytochrome b562,Apelin receptor",
+clean_6D27,6D27,PTGDR2,"Prostaglandin D2 receptor 2, Endolysin chimera",
+clean_4NC3,4NC3,HTR2B,Chimera protein of human 5-hydroxytryptamine receptor 2B and E. Coli soluble cytochrome b562,
+P34995,P34995,PTGER1,Prostaglandin E2 receptor EP1 subtype,P34995
+clean_7BR3,7BR3,GNRHR,"Gonadotropin-releasing hormone receptor,GlgA glycogen synthase,Gonadotropin-releasing hormone receptor",
+clean_4IB4,4IB4,HTR2B,Chimera protein of human 5-hydroxytryptamine receptor 2B and E. Coli soluble cytochrome b562,
+clean_6DRY,6DRY,HTR2B,"5HT2B receptor, BRIL chimera",
+clean_8E9Z,8E9Z,CHRM3,Muscarinic acetylcholine receptor M3,
+clean_3V2Y,3V2Y,S1PR1,"Sphingosine 1-phosphate receptor 1, Lysozyme chimera (E.C.3.2.1.17)",
+Q9NYM4,Q9NYM4,GPR83,G-protein coupled receptor 83,Q9NYM4
+clean_4Z36,4Z36,LPAR1,"Lysophosphatidic acid receptor 1,Soluble cytochrome b562",
+clean_7SUS,7SUS,APLNR,"Apelin receptor, with Rubredoxin insertion",
+clean_4IAQ,4IAQ,5HT1B_HUMAN,Chimera protein of human 5-hydroxytryptamine receptor 1B and E. Coli soluble cytochrome b562,
+clean_4IAR,4IAR,HTR1B,Chimera protein of human 5-hydroxytryptamine receptor 1B and E. Coli soluble cytochrome b562,

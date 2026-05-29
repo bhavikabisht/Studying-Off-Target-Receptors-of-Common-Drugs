@@ -1,0 +1,11 @@
+receptor = 6IRA.pdbqt
+ligand = diphenhydramine.pdbqt
+out = 6IRA_OUT.pdbqt
+center_x = 126
+center_y = 121
+center_z = 73
+size_x = 35
+size_y = 35
+size_z = 35
+num_modes = 10
+energy_range = 3

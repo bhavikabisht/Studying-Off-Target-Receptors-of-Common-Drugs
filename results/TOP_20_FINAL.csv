@@ -1,0 +1,21 @@
+Protein_ID,Vina_Score,Pose_File,Diff_from_H1,Off_Target_Risk
+clean_4MBS,-7.742,vina_results/clean_4MBS_poses.pdbqt,1.87,Moderate off-target risk
+clean_6WGT,-7.678,vina_results/clean_6WGT_poses.pdbqt,1.934,Moderate off-target risk
+clean_7W41,-7.658,vina_results/clean_7W41_poses.pdbqt,1.954,Moderate off-target risk
+clean_6D26,-7.651,vina_results/clean_6D26_poses.pdbqt,1.961,Moderate off-target risk
+clean_3VW7,-7.57,vina_results/clean_3VW7_poses.pdbqt,2.042,Lower off-target risk
+clean_6RZ4,-7.423,vina_results/clean_6RZ4_poses.pdbqt,2.189,Lower off-target risk
+clean_8XQI,-7.415,vina_results/clean_8XQI_poses.pdbqt,2.197,Lower off-target risk
+clean_6D27,-7.408,vina_results/clean_6D27_poses.pdbqt,2.204,Lower off-target risk
+clean_4NC3,-7.352,vina_results/clean_4NC3_poses.pdbqt,2.26,Lower off-target risk
+P34995,-7.335,vina_results/P34995_poses.pdbqt,2.277,Lower off-target risk
+clean_7BR3,-7.313,vina_results/clean_7BR3_poses.pdbqt,2.299,Lower off-target risk
+clean_4IB4,-7.221,vina_results/clean_4IB4_poses.pdbqt,2.391,Lower off-target risk
+clean_6DRY,-7.163,vina_results/clean_6DRY_poses.pdbqt,2.449,Lower off-target risk
+clean_8E9Z,-7.142,vina_results/clean_8E9Z_poses.pdbqt,2.47,Lower off-target risk
+clean_3V2Y,-7.139,vina_results/clean_3V2Y_poses.pdbqt,2.473,Lower off-target risk
+Q9NYM4,-7.121,vina_results/Q9NYM4_poses.pdbqt,2.491,Lower off-target risk
+clean_4Z36,-7.099,vina_results/clean_4Z36_poses.pdbqt,2.513,Lower off-target risk
+clean_7SUS,-7.096,vina_results/clean_7SUS_poses.pdbqt,2.516,Lower off-target risk
+clean_4IAQ,-7.05,vina_results/clean_4IAQ_poses.pdbqt,2.562,Lower off-target risk
+clean_4IAR,-7.032,vina_results/clean_4IAR_poses.pdbqt,2.58,Lower off-target risk

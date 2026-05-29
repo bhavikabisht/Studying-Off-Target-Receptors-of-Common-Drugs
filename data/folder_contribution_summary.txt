@@ -1,0 +1,10 @@
+REVERSE PROVENANCE SUMMARY
+=============================================
+Total Unique PDBs in Final Set: 16367
+Note: Counts sum to > Total because of overlaps.
+
+/home/ibab/project/vascular/docking_ready_pdbs_vascular(final): 9039 files present
+/home/ibab/project/respiratory/docking_ready_pdbs_respiratory(final): 8589 files present
+/home/ibab/project/sensory/docking_ready_pdbs_sensory(final): 8569 files present
+/home/ibab/project/immune/docking_ready_pdbs_immune(final): 6290 files present
+/home/ibab/project/GIT/docking_ready_pdbs_GIT(final): 5925 files present

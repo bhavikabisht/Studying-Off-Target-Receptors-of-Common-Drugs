@@ -1,0 +1,14 @@
+# Ignore massive compressed datasets and software packages
+*.zip
+*.tar.gz
+*.ds
+
+# Ignore massive backend log outputs (Allows small target logs like H.log to upload)
+p2rank*.log
+*master.log
+process_monitor.log
+
+# Ignore OS system files and Python caches
+__pycache__/
+.DS_Store
+*.swp

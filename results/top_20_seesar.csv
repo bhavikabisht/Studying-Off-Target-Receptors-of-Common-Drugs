@@ -1,0 +1,21 @@
+Rank,Protein_ID,Strict_Affinity_nM,Gene_Name,Novelty_Status
+1,clean_4NC3,0.299,CHRM2,Known crosstalk
+2,clean_4IAQ,1.224,HTR1B,Known crosstalk
+3,clean_4IB4,5.680,HTR2B,Known crosstalk
+4,clean_6RZ4,17.564,CYSLTR1,Highly Novel Discovery
+5,clean_8DPF,32.766,HTR2C,Known crosstalk
+6,clean_6DRY,55.200,HTR2B,Double validation (Rank 3)
+7,clean_8E9Z,95.880,CHRM3,Known crosstalk
+8,clean_8UWL,132.196,HTR2A,Known crosstalk
+9,clean_7SK8,268.763,ACKR3,Highly Novel Discovery
+10,clean_4Z34,337.384,LPAR1,Highly Novel Discovery
+11,clean_4IAR,380.122,HTR1B,Double validation (Rank 2)
+12,clean_5TVN,1790.198,HTR2B,Triple validation!
+13,clean_8XQI,2336.408,APLNR,Highly Novel Discovery
+14,clean_6D26,6220.394,PTGDR2,Highly Novel Discovery
+15,clean_7SUS,8188.302,APLNR,Double validation (Rank 13)
+16,clean_7RAN,9782.083,ADORA1,Highly Novel Discovery
+17,clean_7W41,9899.254,GRPR,Highly Novel Discovery
+18,clean_6WHA,19398.271,HTR2A,Double validation (Rank 8)
+19,clean_7ZLY,25135.106,HCAR2,Highly Novel Discovery
+20,clean_4MBS,34800.617,CCR5,Highly Novel Discovery

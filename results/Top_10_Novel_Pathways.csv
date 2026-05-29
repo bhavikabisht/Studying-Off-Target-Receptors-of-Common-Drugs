@@ -1,0 +1,11 @@
+Database,Pathway_Name,P_value,Overlapping_Genes
+KEGG_2021_Human,Nicotinate and nicotinamide metabolism,2.9056119572933168e-06,"['BST1', 'NNMT', 'NAMPT', 'NT5M']"
+KEGG_2021_Human,Folate biosynthesis,5.446585209787106e-05,"['DHFR', 'AKR1B10', 'AKR1C3']"
+KEGG_2021_Human,Other types of O-glycan biosynthesis,0.0003255693913397303,"['GALNT12', 'B4GALT1', 'PLOD3']"
+KEGG_2021_Human,Purine metabolism,0.0005008389468021084,"['PDE10A', 'PDE4B', 'NT5M', 'PDE5A']"
+KEGG_2021_Human,Steroid hormone biosynthesis,0.000702497782331414,"['AKR1D1', 'AKR1C3', 'COMT']"
+KEGG_2021_Human,Fatty acid biosynthesis,0.001185693776183296,"['OXSM', 'FASN']"
+KEGG_2021_Human,Renin-angiotensin system,0.0019428161280176622,"['ACE2', 'LNPEP']"
+KEGG_2021_Human,Vitamin digestion and absorption,0.0021155665632121502,"['FOLH1', 'RBP2']"
+KEGG_2021_Human,Morphine addiction,0.0022323557317029874,"['PDE10A', 'PDE4B', 'GABRG2']"
+KEGG_2021_Human,Salivary secretion,0.002374960131955485,"['BST1', 'PRKG2', 'NOS1']"
